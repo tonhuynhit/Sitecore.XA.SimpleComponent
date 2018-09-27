@@ -1,0 +1,36 @@
+﻿---
+ID: "e934faf3-2b90-4dde-a7d6-fdc78985b6ce"
+Parent: "504d1122-c2ac-4f54-b67b-224e2d4456d0"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/SimpleComponents/Page Content/SimpleVariantComponent
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/logic_and.png
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{D5846F4F-F6D9-4ADD-8E8D-01A53F2B5DDF}"
+- ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
+  Hint: RenderingCssClass
+  Value: "custom-variant-css-class"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Data']/*[@@templatename='Simple Component Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Simple Component Folder']"
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: Index
+- ID: "e144d9d4-b135-42d4-a5a0-53c09704671c"
+  Hint: Parameters
+  Value: 
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.SimpleComponent.Controllers.SimpleVariantComponentController,Sitecore.Feature.SimpleComponent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180928T055428Z

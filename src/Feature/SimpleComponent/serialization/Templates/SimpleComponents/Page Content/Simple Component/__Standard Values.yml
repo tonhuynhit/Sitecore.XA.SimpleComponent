@@ -1,0 +1,18 @@
+﻿---
+ID: "2e8fe9f3-5c0f-45d1-a6c0-251aeff23b0b"
+Parent: "45ba9591-dd05-4c7a-b055-e4dd90cc55e7"
+Template: "45ba9591-dd05-4c7a-b055-e4dd90cc55e7"
+Path: /sitecore/templates/Feature/SimpleComponents/Page Content/Simple Component/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180926T043001Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
